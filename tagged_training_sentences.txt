@@ -1,0 +1,138 @@
+Total/JJ runs/NNS scored/VBN by/IN sc/NNp ganguly/NNP in/IN match/NN 5/CD ?/.
+sc/NNP ganguly/NNP 's/POS score/NN in/IN match/NN 1/CD ?/.
+how/WRB many/JJ runs/NNS did/VBD ganguly/NNP score/NN in/IN match/NN 2/CD ?/.
+sachin/NNp 's/POS score/NN in/IN 4th/CD match/NN ?/.
+McCullum/NNP scored/VBD how/WRB much/JJ in/IN match/NN 3/CD ?/.
+Dravid/NNP 's/POS runs/NNS in/IN match/NN 2/CD ?/.
+Dravid/NNP 's/POS score/NN in/IN match/NN 5/CD ?/.
+How/WRB much/JJ did/VBD Royal/NNP Challenger/NNP Bangalore/NNP score/NN in/IN match/NN 1/CD ?/.
+RCB/NNP score/NN in/IN match/NN 1/CD ?/.
+RCB/NNP runs/VBZ in/IN match/NN 1/CD
+total/JJ score/NN of/IN DDin/NNP 3rd/CD match/NN
+totals/NNS runs/NNS of/IN Deccan/NNP in/IN 8th/CD match/NN
+final/JJ score/NN of/IN DD/NNP in/IN 3rd/CD match/NN
+Rahul/NNP maximum/JJ score/NN in/IN match/NN 3/CD
+who/WP was/VBD the/DT leading/VBG run/NN scorer/NN in/IN match/NN 9/CD
+highest/JJS score/NN in/IN match/NN 3/CD
+maximum/JJ scorer/NN of/IN match/NN 2/CD
+minimum/JJ score/NN in/IN match/NN 3/CD
+lowest/JJS score/NN in/IN match/NN 3/CD
+minimumscorer/NN of/IN match/NN 2/CD
+who/WP scored/VBD the/DT maximum/JJ run/NN match/NN 3/CD by/IN DD/NNP
+top/JJ scorer/NN for/IN DD/NNP in/IN match/NN 3/CD
+top/JJ score/NN in/IN DD/NNP match/NN 4/CD ?/.
+highest/JJS scorer/NN for/IN DD/NNP in/IN match/NN 4/CD
+who/WP scored/VBD the/DT minimum/JJ run/NN match/NN 3/CD by/IN dd/NN
+least/JJS scorer/NN for/IN DD/NNP in/IN match/NN 3/CD
+lowest/JJS score/NN in/IN DD/NNP match/NN 4/CD ?/.
+low/JJ scorer/NN for/IN DD/NNP in/IN match/NN 4/CD
+total/JJ runs/NNS scored/VBN by/IN sachin/NN ?/.
+aggregate/NN runs/NNS by/IN Abhay/NNP ?/.
+how/WRB many/JJ runs/NNS has/VBZ sachin/VBN made/VBN in/IN ipl1/NN ?/.
+Total/JJ runs/NNS made/VBN by/IN sachin/NN ?/.
+What/WP is/VBZ the/DT total/JJ runs/NNS made/VBN by/IN RCB/NNP ?/.
+what/WP is/VBZ the/DT runs/NNS made/VBN by/IN RCB/NNP in/IN ipl/NN 9/CD ?/.
+What/WP is/VBZ the/DT sum/JJ total/NN runs/NNS made/VBN by/IN RCB/NNP
+how/WRB many/JJ fours/NNS did/VBD Kohli/NNP score/NN in/IN match/NN 2/CD ?/.
+4s/CD hit/VBZ by/IN Sachin/NNP in/IN match/NN 1/CD ?/.
+Fours/NNS hit/VBZ by/IN Abhay/NNP in/IN match/NN 5/CD ?/.
+how/WRB many/JJ sixes/NNS did/VBD Kohli/NNP score/NN in/IN match/NN 2/CD ?/.
+6s/CD hit/VBZ by/IN Sachin/NNP in/IN match/NN 1/CD ?/.
+Sixes/NNS hit/VBZ by/IN Abhay/NNP in/IN match/NN 5/CD ?/.
+how/WRB many/JJ sixes/NNS did/VBD Kohli/NNP hit/VBZ in/IN match/NN 2/CD ?/.
+who/WP scored/VBD maximum/JJ runs/NNS in/IN match/NN 6/CD
+who/WP was/VBD the/DT top/JJ scorer/NN in/IN match/NN 6/CD
+How/WRB much/JJ did/VBZ sc/NNP ganguly/NNP hit/VBZ 6s/CD in/IN match/NN 1/CD ?/.
+How/WRB much/JJ did/VBZ ganguly/NNP hit/VBZ 6s/CD in/IN match/NN 1/CD ?/.
+How/WRB much/JJ did/VBZ BB/NNP McCullum/NNP hit/VBZ 6s/CD in/IN match/NN 1CD/ ?/.
+6s/CD hit/VBZ by/IN BB/NNP McCullum/NNP match/NN 1CD/ ?/.
+4s/CD hit/VBZ by/IN BB/NNP McCullum/NNP match/NN 1CD/ ?/.
+How/WRB much/JJ did/VBZ sc/NNP ganguly/NNP hit/VBZ 4s/CD in/IN match/NN 1/CD ?/.
+How/WRB much/JJ did/VBZ ganguly/NNP hit/VBZ 4/CD in/IN match/NN 1/CD ?/.
+How/WRB much/JJ did/VBZ BB/NNP McCullum/NNP hit/VBZ 4s/CD in/IN match/NN 1CD/ ?/.
+how/WRB many/JJ balls/NN were/VBZ faced/VBZ by/IN BB/NNP McCullum/NNP in/IN match/NN 3/CD ?/.
+how/WRB many/JJ deliveries/NN were/VBZ faced/VBZ by/IN BB/NNP Mccullum/NNP in/IN match/NN 3/CD ?/.
+how/WRB many/JJ wickets/NNS did/VBD sc/NNP ganguly/NNP take/VB in/IN match/NN 1/CD ?/.
+bowler/NN who/WP took/VBD highest/JJS number/NN of/IN wickets/NNS in/IN match/NN 2/CD ?/.
+the/DT player/NN who/WP has/VBZ taken/VBN most/JJS numbe/JJ of/IN wickets/NNS in/IN match/NN 4/CD ?/.
+highest/JJS wicket/NN taker/NN in/IN overall/JJ match/NN 3/CD ?/.
+tanveer/NNP 's/POS wickets/NNS in/IN ipl/NN ?/.
+ganguly/NNP 's/POS wickets/NNS in/IN IPL/NN ?/.
+wickets/NNS of/IN ganguly/NNP in/IN IPL/NN ?/.
+wickets/NNS of/IN sc/NNP ganguly/NNP in/IN IPL/NN ?/.
+wickets/NNS of/IN Ganguly/NNP in/IN IPL/NN ?/.
+wickets/NNS of/IN Sc/NNP ganguly/NNP in/IN IPL/NN ?/.
+wickets/NNS of/IN kolkata/NNP knight/NNP riders/NNP in/IN IPL/NN ?/.
+wickets/NNS of/IN KKR/NNP in/IN IPL/NN ?/.
+wickets/NNS of/IN royal/NNP challengers/NNP in/IN IPL/NN ?/.
+dravid/NNP 's/POS wickets/NNS in/IN match/NN 15/CD ?/.
+ds/NNP kulkarni/NNP 's/POS wickets/NNS in/IN ipl/NN ?/.
+DR/NNP Smith/NNP 's/POS wickets/NNS in/IN ipl/NN ?/.
+dw/NNP steyn/NNP 's/POS wickets/NNS in/IN ipl/NN ?/.
+Kumar/NNP 's/POS wickets/NNS in/IN ipl/NN ?/.
+how/WRB many/JJ wickets/NNS has/VBZ ganguly/NNP taken/VBN in/IN ipl/NN ?/.
+how/WRB many/JJ wickets/NNS has/VBZ Royal/NNP Challengers/NNP Bangalore/NNP taken/VBN in/IN ipl/NN ?/.
+how/WRB many/JJ wickets/NNS has/VBZ royal/NNP challengers/NNP bangalore/NNP taken/VBN in/IN ipl/NN ?/.
+how/WRB many/JJ wickets/NNS had/VBD Royal/NNP Challengers/NNP Bangalore/NNP taken/VBN in/IN ipl/NN ?/.
+how/WRB many/JJ wickets/NNS had/VBD royal/NNP challengers/NNP bangalore/NNP taken/VBN in/IN ipl/NN ?/.
+how/WRB many/JJ wickets/NNS has/VBZ Kolkata/NNP Knight/NNP Riders/NNP taken/VBN in/IN ipl/NN ?/.
+how/WRB many/JJ wickets/NNS has/VBZ kolkata/NNP knight/NNP riders/NNP taken/VBN in/IN ipl/NN ?/.
+how/WRB many/JJ wickets/NNS had/VBD Kolkata/NNP Knight/NNP Riders/NNP taken/VBN in/IN ipl/NN ?/.
+how/WRB many/JJ wickets/NNS had/VBD kolkata/NNP knight/NNP riders/NNP taken/VBN in/IN ipl/NN ?/.
+how/WRB many/JJ wickets/NNS did/VBD Royal/NNP Challengers/NNP Bangalore/NNP take/VB in/IN ipl/NN ?/.
+how/WRB many/JJ wickets/NNS did/VBD royal/NNP challengers/NNP bangalore/NNP take/VB in/IN ipl/NN ?/.
+how/WRB many/JJ wickets/NNS did/VBD Kolkata/NNP Knight/NNP Riders/NNP take/VB in/IN ipl/NN ?/.
+how/WRB many/JJ wickets/NNS did/VBD kolkata/NNP knight/NNP riders/NNP take/VB in/IN ipl/NN ?/.
+how/WRB many/JJ wickets/NNS has/VBZ SC/NNP Ganguly/NNP taken/VBN in/IN ipl/NN ?/.
+how/WRB many/JJ wickets/NNS has/VBZ Ganguly/NNP taken/VBN in/IN ipl/NN ?/.
+how/WRB many/JJ wickets/NNS has/VBZ sc/NNP ganguly/NNP taken/VBN in/IN ipl/NN ?/.
+how/WRB many/JJ wickets/NNS had/VBD dravid/NNP taken/VBN in/IN ipl/NN ?/.
+which/WDT bowler/NN took/VBD more/JJR number/NN of/IN wickets/NNS in/IN match/NN 10/CD ?/.
+more/RBR number/NN of/IN wickets/NNS in/IN match/NN 12/CD are/VBP taken/VBN by/IN ?/.
+leading/VBG wicket/NN taker/NN of/IN match/NN 18/CD ?/.
+who/WP secured/VBD more/JJR number/NN of/IN wickets/NNS in/IN match/NN 33/CD ?/.
+which/WDT player/NN took/VBD more/JJR number/NN of/IN wickets/NNS in/IN match/NN 54/CD ?/.
+how/WRB many/JJ wickets/NNS did/VBD SC/NNP Ganguly/NNP take/VB in/IN match/NN match/NN 1/CD ?/.
+who/WP secured/VBD more/JJR number/NN of/IN wickets/NNS in/IN overall/JJ IPL/NNP ?/.
+which/WDT bowler/NN has/VBZ most/RBS number/NN of/IN dismissals/NNS in/IN match/NN 19/CD ?/.
+highest/JJS wicket/NN taker/NN in/IN IPL/NNP ?/.
+how/WRB many/JJ wickets/NNS did/VBD sm/NNP pollock/NNP take/NN in/IN ipl/NNP ?/.
+CRD/NNP Fernando/NNP 's/POS wickets/NNS in/IN match/NN 31/CD ?/.
+crd/NNP fernando/NNP 's/POS wickets/NNS in/IN ipl/NN ?/.
+fernando/NNP 's/POS wickets/NNS in/IN ipl/NN ?/.
+ganguly/NNP 's/POS wickets/NNS in/IN match/NN 1/CD ?/.
+how/WRB many/JJ balls/NNS did/VBD SR/NNP Tendulkar/NNP bowl/NN in/IN match/NN 1/CD ?/.
+which/WDT bowler/NN bowled/VBD the/DT least/JJS number/NN of/IN balls/NNS in/IN match/NN 10/CD ?/.
+who/WP bowled/VBD the/DT least/JJS number/NN of/IN deliveries/NNS in/IN IPL/NNP ?/.
+who/WP bowled/VBD the/DT most/RBS number/NN of/IN balls/NNS in/IN IPL/NNP ?/.
+who/WP bowled/VBD the/DT least/JJS number/NN of/IN balls/NNS in/IN IPL/NNP ?/.
+second/JJ highest/JJS count/NN of/IN number/NN of/IN balls/NNS bowled/VBN in/IN a/DT match/NN
+how/WRB many/JJ overs/NNS did/VBD SC/NNP Ganguly/NNP bowl/NN in/IN match1/NN ?/.
+who/WP bowled/VBD the/DT most/RBS number/NN of/IN overs/NNS ib/VBP IPL/NNP ?/.
+who/WP bowled/VBD the/DT least/JJS number/NN of/IN overs/NNS ib/VBP IPL/NNP ?/.
+what/WDT were/VBD the/DT number/NN of/IN overs/NNS bolwed/VBN by/IN Dravid/NNP in/IN final/JJ ?/.
+third/JJ lowest/JJS count/NN of/IN number/NN of/IN overs/NNS bolwed/VBN in/IN IPL/NNP
+bowler/NN with/IN best/JJ economy/NN rate/NN ?/.
+who/WP is/VBZ the/DT player/NN with/IN lowest/JJ economy/NN rate/NN ?/.
+the/DT most/RBS economical/JJ bowler/NN in/IN match/NN 10/CD ?/.
+who/WP is/VBZ the/DT bowler/NN having/VBG lowest/JJS economy/NN rate/NN in/IN match/NN 18/CD ?/.
+who/WP is/VBZ the/DT bowler/NN with/IN high/JJ number/NN of/IN dot/NN balls/NNS ?/.
+most/JJS of/IN dots/NNS are/VBP bowled/VBN by/IN which/WDT player/NN in/IN match/NN 15/CD ?/.
+who/WP bowled/VBD most/JJS number/NN of/IN dot/NN deliveries/NNS ?/.
+who/WP is/VBZ the/DT most/RBS expensive/JJ bowler/NN ?/.
+how/WRB many/JJ runs/NNS did/VBD sr/NNP tendulkar/NN concede/NN in/IN ipl/NN ?/.
+how/WRB many/JJ sixes/NNS did/VBD ganguly/NNP give/VB in/IN IPL/NNP ?/.
+who/WP conceded/VBD most/JJS number/NN of/IN runs/NNS in/IN IPL/NNP ?/.
+who/WP conceded/VBD most/JJS nuber/NN of/IN fours/NNS in/IN match/NN 10/CD ?/.
+bowler/NN who/WP conceded/VBD most/RBS numer/NNS of/IN sixes/NNS in/IN match/NN 12/CD ?/.
+which/WDT bowler/NN conceded/VBD lowest/JJS boundaries/NNS in/IN match/NN 38/CD ?/.
+who/WP has/VBZ given/VBN less/JJR number/NN of/IN sixes/NNS in/IN match/NN 2/CD ?/.
+how/WRB many/JJ runs/NNS given/VBN by/IN SC/NNP Ganguly/NNP in/IN match/NN 1/CD ?/.
+how/WRB many/JJ boundaries/NNS conceded/VBN by/IN BC/NNP Lee/NNP ?/.
+which/WDT bowler/NN conceded/VBD maximum/JJ number/NN of/IN runs/NNS ?/.
+who/WP got/VBD hit/VBN with/IN most/JJS number/NN of/IN sixes/NNS ?/.
+what/WP is/VBZ the/DT number/NN of/IN runs/NNS given/VBN by/IN Ra/NNP Jadeja/NNP ?/.
+who/WP has/VBZ given/VBN most/JJS number/NN of/IN runs/NNS in/IN final/JJ ?/.
+bowler/NN who/WP gave/VBD less/JJR number/NN of/IN runs/NNS in/IN semi-final/JJ ?/.
+highest/JJS run/NN giver/NN in/IN match/NN 8/CD ?/.
+most/JJS runs/NNS are/VBP given/VBN by/IN which/WDT bowler/NN in/IN match/NN 3/CD ?/.

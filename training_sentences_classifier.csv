@@ -1,0 +1,167 @@
+,sentence,label
+0,Total runs scored by SC Ganguly in match 5?,runs
+1,SC Ganguly score in match 1?,runs
+2,how many runs did Ganguly score in match 2?,runs
+3,Sachin's score in 4th match?,runs
+4,how much did McCullum scored in match 3?,runs
+5,how much did McCullum scored in match 4?,runs
+6,McCullum runs in match 3?,runs
+7,Dravid's runs in match 2?,runs
+8,Dravid's score in match 5?,runs
+9,How much did RCB Score in Match 1?,runs
+10,RCB Score in match 1?,runs
+11,RCB runs in match 1,runs
+12,total score of DD in 3rd match,runs
+13,totals runs of Deccan in 8th match,runs
+14,final score of DD in 3rd match,runs
+15,Rahul maximum score in match 3,max_runs
+16,who was the leading run scorer in match 9,max_runs
+17,highest score in match 3,max_runs
+18,maximum scorer of match 2,max_runs
+19,who scored the maximum run in match 3 from DD,max_runs
+20,top scorer for DD in match 3,max_runs
+21,top score in DD match 4?,max_runs
+22,highest scorer for DD in match 4,max_runs
+23,who scored maximum runs in match 6,max_runs
+24,who was the top scorer in match 6,max_runs
+25,who was the leading run scorer in match 9,max_runs
+26,who scored maximum runs in match 6,max_runs
+27,who was the top scorer in match 6,max_runs
+28,who scored the maximum run match 3 by DD,max_runs
+29,minimum score in match 3,min_runs
+30,lowest score in match 3,min_runs
+31,minimum scorer of match 2,min_runs
+32,who scored the minimum run match 3 by DD,min_runs
+33,least scorer for DD in match 3,min_runs
+34,lowest score in DD match 4?,min_runs
+35,low scorer for DD in match 4,min_runs
+36,total runs scored by sachin?,total_runs
+37,aggregate runs by Abhay?,total_runs
+38,how many runs has sachin made in ipl 1?,total_runs
+39,Total runs made by sachin?,total_runs
+40,What is the total runs made by RCB?,total_runs
+41,what is the runs made by RCB in ipl 9?,total_runs
+42,What is the sum total runs made by RCB,total_runs
+43,who was 3rd highest scorer in match 3?,ith_highest_scorer
+44,who was 3rd top scorer in match 4?,ith_highest_scorer
+45,who was 2nd maximum run scorer in match 6?,ith_highest_scorer
+46,rahul faced how many dot balls in match 1,dot_balls
+47,rahul faced how many dots in match 1,dot_balls
+48,how many fours did Kohli score in match 2?,fours
+49,4s hit by Sachin in match 1?,fours
+50,Fours hit by Abhay in match 5?,fours
+51,how many boundaries are scored by rcb in match 6,fours
+52,how many 4s are scored by rcb in match 3,fours
+53,how many fours are scored by rcb in match 6,fours
+62,how many boundaries are hit by kohli in this season?,fours
+63,how many fours are scored by kohli in this season?,fours
+64,how many 4s are scored by kohli in this season?,fours
+71,how many fours are hit by kohli in this whole ipl?,fours
+72,who scored most fours in entire ipl?,fours
+75,who hit most 4s in entire ipl?,fours
+81,who hit most 4s in whole ipl?,fours
+82,who scored most boundaries in whole ipl?,fours
+83,who hit most boundaries in whole ipl?,fours
+84,who scored most fours in this season?,fours
+85,who hit most fours in this season?,fours
+86,who scored most 4s in this season?,fours
+87,who hit most 4s in this season?,fours
+88,who scored most boundaries in this season?,fours
+89,who hit most boundaries in this season?,fours
+90,how many 6s are scored by rcb in match 6,sixes
+91,how many sixes are scored by rcb in match 6,sixes
+92,how many 6s are hit by rcb in match 6,sixes
+93,how many sixes are hit by rcb in match 6,sixes
+94,what are total sixes of rcb in match 6,sixes
+95,what are total 6s of rcb in match 5,sixes
+96,how many sixes are hit by kohli in this season?,sixes
+97,how many 6s are hit by kohli in this season?,sixes
+98,how many sixes are scored by kohli in this season?,sixes
+99,how many 6s are scored by kohli in this season?,sixes
+100,how many 6s are hit by kohli in this entire ipl?,sixes
+101,how many sixes are hit by kohli in this entire ipl?,sixes
+102,how many 6s are hit by kohli in this whole ipl?,sixes
+103,how many sixes are hit by kohli in this whole ipl?,sixes
+104,who scored most sixes in entire ipl?,sixes
+105,who hit most sixes in entire ipl?,sixes
+106,who scored most 6s in entire ipl?,sixes
+107,who hit most 6s in entire ipl?,sixes
+108,who scored most sixes in whole ipl?,sixes
+109,who hit most sixes in whole ipl?,sixes
+110,who scored most 6s in whole ipl?,sixes
+111,who hit most 6s in whole ipl?,sixes
+112,who scored most sixes in this season?,sixes
+113,who hit most sixes in this season?,sixes
+114,who scored most 6s in this season?,sixes
+115,who hit most 6s in this season?,sixes
+116,how many sixes did Kohli score in match 2?,sixes
+117,6s hit by Sachin in match 1?,sixes
+118,Sixes hit by Abhay in match 5?,sixes
+119,how many sixes did Kohli hit in match 2?,sixes
+120,How much did McCullum six hit in match 1,sixes
+121,How much did McCullum six hit in match 1,sixes
+122,How much did McCullum six hit in match 1,sixes
+123,How much did McCullum 6s hit in match 1,sixes
+124,How much did McCullum 6s hit in match 1,sixes
+125,How much did McCullum 6s hit in match 1,sixes
+126,how many balls were faced by BB McCullum in match 3?,strike_rate
+127,how many deliveries were faced by BB Mccullum in match 3?,strike_rate
+128,what was the strike rate of BB McCullum in match 1?,strike rate
+129,BB McCullum's strike rate in 1st match?,strike rate
+130,how many wickets did sc ganguly take in match 1?,bowler_wickets
+131,ganguly's wickets in match 1?,bowler_wickets
+132,dravid's wickets in match 15?,bowler_wickets
+133,fernando's wickets in 1st match?,bowler_wickets
+134,Dravid's wickets in 2nd match of IPL?,bowler_wickets
+135,bowler who took highest number of wickets in match 2?,bowler_wickets
+136,the player who has taken most numbe of wickets in match 4?,bowler_wickets
+137,highest wicket taker in overall match 3?,bowler_wickets
+138,which bowler took more number of wickets in match 10?,bowler_wickets
+139,more number of wickets in match 12 are taken by?,bowler_wickets
+140,leading wicket taker of match 18?,bowler_wickets
+141,who secured more number of wickets in match 33?,bowler_wickets
+142,which player took more number of wickets in match 54?,bowler_wickets
+143,how many wickets did SC Ganguly take in match match 1?,bowler_wickets
+144,who secured more number of wickets in overall IPL?,bowler_wickets
+145,which bowler has most number of dismissals in match 19?,bowler_wickets
+146,highest wicket taker in IPL?,bowler_wickets
+147,how many wickets did sm pollock take in ipl?,bowler_wickets
+148,CRD Fernando's wickets in match 31?,bowler_wickets
+149,crd fernando's wickets in ipl?,bowler_wickets
+150,how many wickets has ganguly taken in ipl ?,bowler_wickets
+151,how many wickets had ganguly taken in ipl?,bowler_wickets
+152,how many balls did SR Tendulkar bowl in match 1?,bowler_balls
+153,which bowler bowled the least number of balls in match 10?,bowler_balls
+154,who bowled the least number of deliveries in IPL?,bowler_balls
+155,who bowled the most number of balls in IPL?,bowler_balls
+156,who bowled the least number of balls in IPL?,bowler_balls
+157,second highest count of number of balls bowled in a match,bowler_balls
+158,how many overs did SC Ganguly bowl in match1?,bowler_balls
+159,who bowled the most number of overs ib IPL?,bowler_balls
+160,who bowled the least number of overs ib IPL?,bowler_balls
+161,what were the number of overs bolwed by Dravid in final?,bowler_balls
+162,third lowest count of number of overs bolwed in IPL,bowler_balls
+163,bowler with best economy rate?,bowler_balls
+164,who is the player with lowest economy rate?,bowler_balls
+165,the most economical bowler in match 10?,bowler_balls
+166,who is the bowler having lowest economy rate in match 18?,bowler_balls
+167,who is the bowler with high number of dot balls?,bowler_balls
+168,most of dots are bowled by which player in match 15?,bowler_balls
+169,who bowled most number of dot deliveries?,bowler_balls
+170,who is the most expensive bowler?,bowler_balls
+171,how many runs did sr tendulkar concede in ipl?,bolwer_runs
+172,how many sixes did SC Ganguly give in IPL?,bowler_runs
+173,who conceded most number of runs in IPL ?,bowler_runs
+174,who conceded most nuber of fours in match 10?,bowler_runs
+175,bowler who conceded most numer of sixes in match 12?,bowler_runs
+176,which bowler conceded lowest boundaries in match 38?,bowler_runs
+177,who has given less number of sixes in match 2?,bowler_runs
+178,how many runs given by SC Ganguly in match 1?,bowler_runs
+179,how many boundaries conceded by BC Lee?,bowler_runs
+180,which bowler conceded maximum number of runs?,bowler_runs
+181,who got hit with most number of sixes?,bowler_runs
+182,what is the number of runs given by RA Jadeja?,bowler_runs
+183,who has given most number of runs in final?,bowler_runs
+184,bowler who gave less number of runs in semi-final?,bowler_runs
+185,highest run giver in match 8?,bowler_runs
+186,most runs are given by which bowler in match 3?,bowler_runs
