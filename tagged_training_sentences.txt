@@ -58,35 +58,11 @@ the/DT player/NN who/WP has/VBZ taken/VBN most/JJS numbe/JJ of/IN wickets/NNS in
 highest/JJS wicket/NN taker/NN in/IN overall/JJ match/NN 3/CD ?/.
 tanveer/NNP 's/POS wickets/NNS in/IN ipl/NN ?/.
 ganguly/NNP 's/POS wickets/NNS in/IN IPL/NN ?/.
-wickets/NNS of/IN ganguly/NNP in/IN IPL/NN ?/.
-wickets/NNS of/IN sc/NNP ganguly/NNP in/IN IPL/NN ?/.
-wickets/NNS of/IN Ganguly/NNP in/IN IPL/NN ?/.
-wickets/NNS of/IN Sc/NNP ganguly/NNP in/IN IPL/NN ?/.
-wickets/NNS of/IN kolkata/NNP knight/NNP riders/NNP in/IN IPL/NN ?/.
-wickets/NNS of/IN KKR/NNP in/IN IPL/NN ?/.
-wickets/NNS of/IN royal/NNP challengers/NNP in/IN IPL/NN ?/.
 dravid/NNP 's/POS wickets/NNS in/IN match/NN 15/CD ?/.
 ds/NNP kulkarni/NNP 's/POS wickets/NNS in/IN ipl/NN ?/.
 DR/NNP Smith/NNP 's/POS wickets/NNS in/IN ipl/NN ?/.
 dw/NNP steyn/NNP 's/POS wickets/NNS in/IN ipl/NN ?/.
 Kumar/NNP 's/POS wickets/NNS in/IN ipl/NN ?/.
-how/WRB many/JJ wickets/NNS has/VBZ ganguly/NNP taken/VBN in/IN ipl/NN ?/.
-how/WRB many/JJ wickets/NNS has/VBZ Royal/NNP Challengers/NNP Bangalore/NNP taken/VBN in/IN ipl/NN ?/.
-how/WRB many/JJ wickets/NNS has/VBZ royal/NNP challengers/NNP bangalore/NNP taken/VBN in/IN ipl/NN ?/.
-how/WRB many/JJ wickets/NNS had/VBD Royal/NNP Challengers/NNP Bangalore/NNP taken/VBN in/IN ipl/NN ?/.
-how/WRB many/JJ wickets/NNS had/VBD royal/NNP challengers/NNP bangalore/NNP taken/VBN in/IN ipl/NN ?/.
-how/WRB many/JJ wickets/NNS has/VBZ Kolkata/NNP Knight/NNP Riders/NNP taken/VBN in/IN ipl/NN ?/.
-how/WRB many/JJ wickets/NNS has/VBZ kolkata/NNP knight/NNP riders/NNP taken/VBN in/IN ipl/NN ?/.
-how/WRB many/JJ wickets/NNS had/VBD Kolkata/NNP Knight/NNP Riders/NNP taken/VBN in/IN ipl/NN ?/.
-how/WRB many/JJ wickets/NNS had/VBD kolkata/NNP knight/NNP riders/NNP taken/VBN in/IN ipl/NN ?/.
-how/WRB many/JJ wickets/NNS did/VBD Royal/NNP Challengers/NNP Bangalore/NNP take/VB in/IN ipl/NN ?/.
-how/WRB many/JJ wickets/NNS did/VBD royal/NNP challengers/NNP bangalore/NNP take/VB in/IN ipl/NN ?/.
-how/WRB many/JJ wickets/NNS did/VBD Kolkata/NNP Knight/NNP Riders/NNP take/VB in/IN ipl/NN ?/.
-how/WRB many/JJ wickets/NNS did/VBD kolkata/NNP knight/NNP riders/NNP take/VB in/IN ipl/NN ?/.
-how/WRB many/JJ wickets/NNS has/VBZ SC/NNP Ganguly/NNP taken/VBN in/IN ipl/NN ?/.
-how/WRB many/JJ wickets/NNS has/VBZ Ganguly/NNP taken/VBN in/IN ipl/NN ?/.
-how/WRB many/JJ wickets/NNS has/VBZ sc/NNP ganguly/NNP taken/VBN in/IN ipl/NN ?/.
-how/WRB many/JJ wickets/NNS had/VBD dravid/NNP taken/VBN in/IN ipl/NN ?/.
 which/WDT bowler/NN took/VBD more/JJR number/NN of/IN wickets/NNS in/IN match/NN 10/CD ?/.
 more/RBR number/NN of/IN wickets/NNS in/IN match/NN 12/CD are/VBP taken/VBN by/IN ?/.
 leading/VBG wicket/NN taker/NN of/IN match/NN 18/CD ?/.
@@ -136,3 +112,4 @@ who/WP has/VBZ given/VBN most/JJS number/NN of/IN runs/NNS in/IN final/JJ ?/.
 bowler/NN who/WP gave/VBD less/JJR number/NN of/IN runs/NNS in/IN semi-final/JJ ?/.
 highest/JJS run/NN giver/NN in/IN match/NN 8/CD ?/.
 most/JJS runs/NNS are/VBP given/VBN by/IN which/WDT bowler/NN in/IN match/NN 3/CD ?/.
+
